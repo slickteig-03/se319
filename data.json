@@ -1,0 +1,42 @@
+{
+    "Maple" : [
+      {
+        "treeName": "Red Maple",
+        "treeFamily": "Maple",
+        "avgHeight": "70 ft",
+        "growthRate": "12-24 inches per year",
+        "bestClimate": "Cool, Moist",
+        "image": "./images/maple.jpg",
+        "care": "The Red Maple requires full or partial light, preferably six hours per day. They need well-drained, moist soil.",
+        "pruning": "Pruning isn't typically necessary for Red Maples, but removing crowded branches can help the appearance.",
+        "careImage": "./images/sunlight.jpg"
+      }
+    ],
+    "Birch" : [
+        {
+          "treeName": "Silver Birch",
+          "treeFamily": "Birch",
+          "avgHeight": "40 ft",
+          "growthRate": "13-24 inches per year",
+          "bestClimate": "Cool, Moist",
+          "image": "./images/birch.jpg",
+          "care": "The Silver Birch requires full light, preferably six hours per day. They need well-drained, moist soil.",
+          "pruning": " The Silver Birch is susceptible to fungal diseases, but it is possible to keep them at bay by pruning out diseased twigs and branches. Cut back to healthy wood.",
+          "careImage": "./images/soil.jpg"
+        }
+      ],
+      "Spruce" : [
+        {
+          "treeName": "Black Spruce",
+          "treeFamily": "Spruce",
+          "avgHeight": "30-50 ft",
+          "growthRate": "Less than 12 inches per year",
+          "bestClimate": "Cool, Moist",
+          "image": "./images/spruce.jpg",
+          "care": "The Black Spruce doesn't need much direct sunlight to grow. It may be necessary to shade smaller Black Spruces during the summer when sunlight is harsh. They grow well in well-drained, slightly acidic soils.",
+          "pruning": "Generally, Black Spruce do not require pruning.",
+          "careImage": "./images/pruning.jpg"
+        }
+      ]
+
+  }
